@@ -1,9 +1,9 @@
 package main
 
-import(
+import (
 	"fmt"
 )
 
-func main(){
-	fmt.Println("print line")
+func main() {
+	fmt.Println("print line update!")
 }
